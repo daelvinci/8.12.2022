@@ -6,3 +6,4 @@ Dersde ettiyimiz tapsiriqlarin linki:
 Yeni ev tapsiriqlari
 1. https://dotnetfiddle.net/8Cao50 (21 e bolme ededi orta)
 4. https://dotnetfiddle.net/4yl1ct (Yazida reqem var mi ya yox)
+5. https://dotnetfiddle.net/aFH7pa (eded ve operator daxil edildikde hesab aparan alqoritm)
